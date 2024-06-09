@@ -1,5 +1,6 @@
 # Shardeum
-#### We did not see the point of publishing a complete guide on installing a Shardeum node, as the project team made the instructions very clear, and described possible problems, and their solution when installing a node.
+NETWORK STOP! GUIDE NO WORK!
+
 We suggest you use the [official documentation](https://docs.shardeum.org/node/run/validator). </br>
 Below are the minimum system requirements for the project.</br>
 CPU: 4 Core </br>
