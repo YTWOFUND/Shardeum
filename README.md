@@ -1,5 +1,4 @@
 # Shardeum
-NETWORK STOP! GUIDE NO WORK!
 
 We suggest you use the [official documentation](https://docs.shardeum.org/node/run/validator). </br>
 Below are the minimum system requirements for the project.</br>
@@ -7,6 +6,11 @@ CPU: 4 Core </br>
 RAM: 16Gb </br>
 SSD: 250Gb </br>
 OS: Ubuntu 20.04 </br>
+
+### Actually version:
+Network:Pre-atomium
+Version:1.11
+
 
 ### Server preparation + install docker+docker-compose.
 ```
