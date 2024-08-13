@@ -8,9 +8,9 @@ SSD: 250Gb </br>
 OS: Ubuntu 20.04 </br>
 
 ### Actually version:
-Network:Pre-atomium
+Network:Shardeum Atomium
 
-Version:1.11
+Version:1.29.2
 
 
 ### Server preparation + install docker+docker-compose.
