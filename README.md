@@ -32,7 +32,7 @@ docker-compose -v
 
 ### Install node.
 ```
-curl -O https://gitlab.com/shardeum/validator/dashboard/-/raw/main/installer.sh && chmod +x installer.sh && ./installer.sh
+curl -O https://raw.githubusercontent.com/shardeum/validator-dashboard/main/installer.sh && chmod +x installer.sh && ./installer.sh
 ```
 
 ### Install screen + script autorestart node.
